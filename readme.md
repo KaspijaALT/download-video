@@ -1,7 +1,7 @@
 
 ---
 
-# YouTube Video Lejuplādes Rīks (YouTube Video Downloader Tool)
+# YouTube Video Lejuplādes Rīks (YouTube Video Downloader Tool).
 
 This is a simple graphical user interface (GUI) tool built using Python's `tkinter` library and the `yt-dlp` library for downloading YouTube videos. The tool allows users to input a YouTube video URL and download the video directly to the "Downloads" folder.
 
